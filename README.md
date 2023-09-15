@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection Analysis Report
 Fraud &amp; Anomaly Detection
 
-![fraud](/fraud.png)
+![fraudd](/fraud.png)
 
 ## Table of Contents
 

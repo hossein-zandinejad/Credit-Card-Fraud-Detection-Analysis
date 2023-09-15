@@ -1,6 +1,8 @@
 # Credit Card Fraud Detection Analysis Report
 Fraud &amp; Anomaly Detection
 
+![fraud](/oktoberfest2.jpeg)
+
 ## Table of Contents
 
 - [Introduction](#introduction)

@@ -102,7 +102,7 @@ By combining the strengths of machine learning and anomaly detection techniques,
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/hossein-zandinejad/your-repository.git
+git clone https://github.com/hossein-zandinejad/Credit-Card-Fraud-Detection-Analysis.git
 ```
 
 ## Installation
